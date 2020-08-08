@@ -1,0 +1,4 @@
+C:\Users\hamee\OneDrive\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\Test_HelloWorld\obj\Debug\netcoreapp3.1\Test_HelloWorld.csprojAssemblyReference.cache
+C:\Users\hamee\OneDrive\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\Test_HelloWorld\obj\Debug\netcoreapp3.1\Test_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\hamee\OneDrive\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\Test_HelloWorld\obj\Debug\netcoreapp3.1\Test_HelloWorld.AssemblyInfo.cs
+C:\Users\hamee\OneDrive\Documents\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\Test_HelloWorld\obj\Debug\netcoreapp3.1\Test_HelloWorld.csproj.CoreCompileInputs.cache
