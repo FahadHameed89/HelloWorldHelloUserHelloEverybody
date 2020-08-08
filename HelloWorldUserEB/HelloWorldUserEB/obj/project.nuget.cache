@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "5VzEkDa9noWksYTGFFwY4E1pciR5BBB3wKHyrilbyFNxbLXTUU68aE9gTZgBbXYx4eVGqwERK0Yo0wl9IDO9/w==",
+  "dgSpecHash": "2S2pp6AD9gejb73uR7uPhkl8r4N3s73a4fxGDjeAqRm2F+1O0W7H8GRxlQ9VSlo+5UUryaIJGFUKHeMjbMTHMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hamee\\OneDrive\\Documents\\HelloWorldHelloUserHelloEverybody\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.console\\3.11.1\\nunit.console.3.11.1.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\hamee\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
