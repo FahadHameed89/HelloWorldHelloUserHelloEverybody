@@ -4,7 +4,7 @@ namespace HelloWorldUserEB
 {
     public class Program
     {
-        private static ConsoleKey keyPressed;
+        public static ConsoleKey keyPressed;
 
         public static void Main()
         {
